@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iker</h1>
-<h3 align="center">I'm a frontend developer</h3>
+<h3 align="center">I'm a fullstack developer</h3>
 
-- 💬 Ask me about **html, css, javascript and angular**
+- 💬 Ask me about **html, css, javascript, angular, php, python,...**
 
 - 📫 How to reach me **ikercordon2003.ich@gmail.com**
 
